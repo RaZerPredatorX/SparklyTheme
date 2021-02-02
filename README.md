@@ -8,7 +8,7 @@ First of all you must download ***LightCord***, an application that contains the
 
 Access this link https://github.com/Lightcord/Lightcord/releases and download the latest stable release for your platform (**must be the installer unless you know what you're doing**). After it's downloaded just open the executable and it will install everything automatically.
 
-After the client installation is done you should now have a shortcut on your Desktop called ***LightDiscord***, you don't need to have the original Discord open in order to use it, you can even unninstall the original one and just use the standalone client we just installed. 
+After the client installation is done you should now have a shortcut on your Desktop called ***LightDiscord***, you don't need to have the original Discord open in order to use it, you can even uninstall the original one and just use the standalone client we just installed. 
 
 
 # Installation of the Theme
