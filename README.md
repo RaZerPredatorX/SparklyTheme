@@ -1,24 +1,5 @@
-# SparklyTheme
+# Introduction
 
-<!-- HTML Codes by Quackit.com -->
-<!DOCTYPE html>
-<title>Text Example</title>
-<style>
-div.container {
-background-color: #ffffff;
-}
-div.container p {
-font-family: Arial;
-font-size: 14px;
-font-style: normal;
-font-weight: bold;
-text-decoration: none;
-text-transform: none;
-color: #000000;
-background-color: #ffffff;
-}
-</style>
+I decided to make a brande new and unique Discord user interface for everyone that wanted to experience something new. 
+Since I was lacking a general idea of what kind of design do, I decided to make it on the design of my Discord server called Sparkly.
 
-<div class="container">
-<p>Information</p>
-</div>
