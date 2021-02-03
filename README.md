@@ -15,7 +15,7 @@ After the client installation is done you should now have a shortcut on your Des
 
 After you have succesfully installed and opened the ***Lightcord Client*** go to **User Settings** and scroll all the way down until you find the option called **Themes**.
 
-Now that you're on this section now proceed to download the ***Sparkly*** theme from this link: https://github.com/RaZerPredatorX/SparklyTheme/blob/Sparkly/Sparkly%20Theme.rar and click on the **Download** button, you must have installed ***Winrar*** in order to be able to extract the files. Access this link https://www.win-rar.com/download.html?&L=0 and download the latest release for your **Operating System** and depending if you use **x86 or x64** bits. 
+Now that you're on this section now proceed to download the ***Sparkly*** theme from the **Releases** and downloaded the latest version available, you can quickly access the **Releases** by visting this link: https://github.com/RaZerPredatorX/SparklyTheme/releases you must have installed ***Winrar*** in order to be able to extract the files. Access this link https://www.win-rar.com/download.html?&L=0 and download the latest release for your **Operating System** and depending if you use **x86 or x64** bits. 
 
 In case that you didn't have Winrar installed it's just as simple as installing the ***Lightcord client*** just open the executable file and follow the instruction, it will do everything automatically. After you have downloaded the theme and installed ***winrar***(in case you didn't have it already installed) just right click on the archive and select **Extract Files**. 
 
