@@ -25,4 +25,4 @@ We hope you enjoy it!
 # License 
 
 The files are licensed under Apache 2.0, for more information check the attached ***LICENSE*** archive.
-https://github.com/AllisonMichelle/SparklyTheme/blob/Sparkly/LICENSE
+https://github.com/AllisonMichelle/SparklyTheme/blob/Sparkly/License
